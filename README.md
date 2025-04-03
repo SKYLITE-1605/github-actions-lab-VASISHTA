@@ -8,7 +8,7 @@ Steps:
 
 Checks out the repository.
 
-Runs a simple command to print "Hello, GitHub Actions!".
+Runs a simple command to print "Hello, GitHub Actions!!".
 
 How to Use
 Make any changes to the repository and push them.
